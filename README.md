@@ -1,4 +1,3 @@
-<img width="335" alt="image" src="https://github.com/DevanshShahCivica/DevanshShahCivica/assets/149039792/a643cbb9-7775-415f-99c1-26540f320ba2">
 <h1 align="center">Hi 👋, I'm Devansh Shah</h1>
 <h3 align="center">Devansh Shah | Full Stack Developer at Civica | Professional Debugger 🐛 | Enthusiastic Code Composer 🚀 | Master of the Keyboard Symphony 🎹 | Part-time Coffee Drinker ☕ | Exploring the Universe of Code - One Commit at a Time 🌌 | Check out my personal GitHub: 'theDevanshShah' and let's code the world together! 💻🌍</h3>
 
